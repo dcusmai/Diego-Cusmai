@@ -15,7 +15,22 @@ Los invito a revisar mi perfil y ponerse en contacto conmigo por mensaje privado
 https://www.linkedin.com/in/diegocusmai/
 
 💻 Tech Stack:
-JavaScript React React Router Postgres HTML CSS TypeScript Bootstrap Canva Redux NodeJS Express.js NPM Postgres Trello GitHub
+
+JavaScript 
+React 
+React Router 
+Postgres 
+HTML 
+CSS 
+TypeScript 
+Bootstrap 
+Canva 
+Redux 
+NodeJS 
+Express.js 
+NPM 
+Trello 
+GitHub
 
 Connect with me
 diegocusmai@yahoo.com.ar
