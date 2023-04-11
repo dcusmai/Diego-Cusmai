@@ -2,8 +2,6 @@
 
 💫 About Me:
 
-💫 About Me:
-
 ¡Hola! 👋
 
 Soy desarrollador de aplicaciones web fullstack. Cuento con un sólido aprendizaje en tecnologías como JavaScript, React, Redux, HTML, CSS, Node.js, Express, PostgreSQL y Sequelize. También poseo un background que me aporta una significativa experiencia en trabajo corporativo, consultoría e inversiones. Me siento muy cómodo trabajando en equipo, poseo gran iniciativa e inclinación natural al liderazgo colaborativo. Soy creativo, curioso, autodidacta y me gustan los desafíos.
