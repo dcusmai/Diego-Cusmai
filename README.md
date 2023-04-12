@@ -39,27 +39,35 @@ https://www.linkedin.com/in/diegocusmai/
 * Cloudinary
 * Nodemailer
 
-## 💻 My Projects
+## 🚀 My Projects
 
 ### 🐶🐱🐰 AppDoptame
 
 https://github.com/dcusmai/PI-Food-main
 
-![Landing](https://github.com/dcusmai/dcusmai/blob/main/Landing.png)
 
-![Login](https://github.com/dcusmai/dcusmai/blob/main/LogIn-SignUp.png)
+<img src="https://github.com/dcusmai/dcusmai/blob/main/Landing.png" height="300">
 
-![Home](https://github.com/dcusmai/dcusmai/blob/main/Home-Perros.png)
+<img src="https://github.com/dcusmai/dcusmai/blob/main/LogIn-SignUp.png" height="300">
 
-![Detail](https://github.com/dcusmai/dcusmai/blob/main/Detail.png)      ![Ayudame](https://github.com/dcusmai/dcusmai/blob/main/Ayudame.png)
+<img src="https://github.com/dcusmai/dcusmai/blob/main/Home-Perros.png" height="300">
 
-![Otros](https://github.com/dcusmai/dcusmai/blob/main/Pets-Otros-Fav.png)
+<img src="https://github.com/dcusmai/dcusmai/blob/main/Detail.png" height="300">
 
-![Profile Apa](https://github.com/dcusmai/dcusmai/blob/main/Profile%20APA.png)
+<img src="https://github.com/dcusmai/dcusmai/blob/main/Ayudame.png" height="300">
 
+<img src="https://github.com/dcusmai/dcusmai/blob/main/Pets-Otros-Fav.png" height="300">
+
+<img src="https://github.com/dcusmai/dcusmai/blob/main/Profile%20APA.png" height="300">
+
+
+
+# 
 
 ### 🥙🍣🍤 Henry Food
 
-![]()
-
 https://github.com/dcusmai/App-Doptame
+
+<img src="" height="300">
+
+
