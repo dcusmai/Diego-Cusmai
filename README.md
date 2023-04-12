@@ -1,4 +1,4 @@
-![Header FullStack](https://github.com/dcusmai/dcusmai/blob/main/Dise%C3%B1o%20sin%20t%C3%ADtulo(2).gif)
+![Header FullStack](https://github.com/dcusmai/dcusmai/blob/main/Dise%C3%B1o%20sin%20t%C3%ADtulo(3).gif)
 
 ## 💫 About Me:
 
