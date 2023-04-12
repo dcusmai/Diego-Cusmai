@@ -20,21 +20,26 @@ https://www.linkedin.com/in/diegocusmai/
 
 ## 💻 Tech Stack:
 
-JavaScript 
-React 
-React Router 
-Postgres 
-HTML 
-CSS 
-TypeScript 
-Bootstrap 
-Canva 
-Redux 
-NodeJS 
-Express.js 
-NPM 
-Trello 
-GitHub
+* JavaScript 
+* TypeScript 
+* NodeJS
+* React 
+* React-Redux
+* React-Router 
+* Express.js
+* Postgres 
+* Sequelize
+* MongoDB
+* HTML 
+* CSS 
+* Bootstrap 
+* Bootswatch
+* Trello
+* Figma
+* Canva 
+* GitHub
+* Cloudinary
+* Nodemailer
 
 ## 💻 My Projects
 
