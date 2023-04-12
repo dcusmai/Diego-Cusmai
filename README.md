@@ -68,11 +68,11 @@ https://github.com/dcusmai/PI-Food-main
 
 https://github.com/dcusmai/App-Doptame
 
-<img src="https://github.com/dcusmai/dcusmai/blob/main/Landing.png" height="300">
+<img src="https://github.com/dcusmai/dcusmai/blob/main/Landing%20Food.png" height="300">
 
 <img src="https://github.com/dcusmai/dcusmai/blob/main/Home.png" height="300">
 
-<img src="https://github.com/dcusmai/dcusmai/blob/main/Detail.png" height="300">
+<img src="https://github.com/dcusmai/dcusmai/blob/main/Detail%20Food.png" height="300">
 
 <img src="https://github.com/dcusmai/dcusmai/blob/main/Crear%20Receta.png" height="300">
 
