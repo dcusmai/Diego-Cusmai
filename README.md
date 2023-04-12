@@ -1,6 +1,6 @@
 # Diego Cusmai
 
-![Header FullStack](https://github.com/dcusmai/dcusmai/blob/main/Dise%C3%B1o%20sin%20t%C3%ADtulo(1).gif)
+![Header FullStack](https://github.com/dcusmai/dcusmai/blob/main/Dise%C3%B1o%20sin%20t%C3%ADtulo(2).gif)
 
 ## 💫 About Me:
 
