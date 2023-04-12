@@ -43,6 +43,17 @@ https://www.linkedin.com/in/diegocusmai/
 
 ### 🐶🐱🐰 AppDoptame
 
+AppDoptame es una aplicación para acercar mascotas rescatadas por las Asociaciones Protectoras de Animales a las personas interesadas en adoptar, acortando los tiempos de permanencia en los refugios mediante la visualización y difusión, disminuyendo los costos de manutención que deben afrontar las asociaciones y mejorando las perspectivas de vida de los animalitos. AppDoptame permite a los usuarios loguearse y navegar, filtrando por ubicación, tipo de animal y otras características. Las asociaciones pueden crear su propio perfil y obtener un dashboard donde pueden gestionar todas sus mascotas y entrar en contacto con los interesados en adoptar. Como administradores, tenemos el control de todo lo que sucede en la app desde un panel central que muestra usuarios, asociaciones y mascotas.
+
+Un aspecto importante de nuestra aplicación, es que permite a los usuarios apadrinar asociaciones, realizando donativos de dinero desde la plataforma.
+AppDoptame es la plataforma para todas las asociaciones protectoras del país.
+
+El proyecto fue desarrollado por un grupo de 7 desarrolladores en 3 semanas, siguiendo las metodologías SCRUM.
+
+Entre las tecnologías utilizadas para este proyecto, se encuentran:
+
+Javascript | Node.js | Typescript | HTML | CSS | React | React-Redux | React-Router | Express | MongoDB | Cloudinary | Stripes | Ant Design | Zero Auth | Nodemailer | Figma | Trello | Vercel-Railway 
+
 https://github.com/dcusmai/PI-Food-main
 
 
@@ -65,6 +76,12 @@ https://github.com/dcusmai/PI-Food-main
 # 
 
 ### 🥙🍣🍤 Henry Food
+
+Proyecto desarrollado en la etapa de Labs de Henry, de forma individual y basado en una aplicación web que accede, mediante un servidor, a una API con información sobre recetas de comida. La aplicación permite guardar esta información en una base de datos propia (Postgres), modificarla, crear nuevas recetas y realizar búsquedas con filtrados por distintas variables.
+
+Entre las tecnologías que utilicé para el desarrollo de este proyecto, se encuentran:
+
+Javascript | HTML | CSS | React | React-Redux | React-Router | Express | Sequelize | Postgres | Node.js
 
 https://github.com/dcusmai/App-Doptame
 
