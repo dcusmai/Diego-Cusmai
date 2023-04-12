@@ -10,6 +10,8 @@ Me destaco por generar y mantener relaciones profesionales de largo plazo, orien
 
 Los invito a revisar mi perfil y ponerse en contacto conmigo por mensaje privado o escribiéndome a diegocusmai@yahoo.com.ar si desean sumar mis aptitudes en su equipo o proyecto.
 
+📧 Connect with me:
+diegocusmai@yahoo.com.ar
 
 🌐 Socials:
 https://www.linkedin.com/in/diegocusmai/
@@ -31,9 +33,6 @@ Express.js
 NPM 
 Trello 
 GitHub
-
-Connect with me
-diegocusmai@yahoo.com.ar
 
 📌 My Projects
 
