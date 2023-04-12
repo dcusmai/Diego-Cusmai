@@ -1,6 +1,6 @@
-# Diego-Cusmai
+# Diego Cusmai
 
-💫 About Me:
+## 💫 About Me:
 
 ¡Hola! 👋
 
@@ -10,13 +10,13 @@ Me destaco por generar y mantener relaciones profesionales de largo plazo, orien
 
 Los invito a revisar mi perfil y ponerse en contacto conmigo por mensaje privado o escribiéndome a diegocusmai@yahoo.com.ar si desean sumar mis aptitudes en su equipo o proyecto.
 
-📧 Connect with me:
+## 📧 Connect with me:
 diegocusmai@yahoo.com.ar
 
-🌐 Socials:
+## 🌐 Socials:
 https://www.linkedin.com/in/diegocusmai/
 
-💻 Tech Stack:
+## 💻 Tech Stack:
 
 JavaScript 
 React 
@@ -34,7 +34,7 @@ NPM
 Trello 
 GitHub
 
-📌 My Projects
+## 📌 My Projects
 
 https://github.com/dcusmai/PI-Food-main
 
