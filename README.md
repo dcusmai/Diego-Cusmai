@@ -36,8 +36,27 @@ NPM
 Trello 
 GitHub
 
-## 📌 My Projects
+## 💻 My Projects
+
+### 🐶🐱🐰 AppDoptame
 
 https://github.com/dcusmai/PI-Food-main
+
+![Landing](https://github.com/dcusmai/dcusmai/blob/main/Landing.png)
+
+![Login](https://github.com/dcusmai/dcusmai/blob/main/LogIn-SignUp.png)
+
+![Home](https://github.com/dcusmai/dcusmai/blob/main/Home-Perros.png)
+
+![Detail](https://github.com/dcusmai/dcusmai/blob/main/Detail.png)      ![Ayudame](https://github.com/dcusmai/dcusmai/blob/main/Ayudame.png)
+
+![Otros](https://github.com/dcusmai/dcusmai/blob/main/Pets-Otros-Fav.png)
+
+![Profile Apa](https://github.com/dcusmai/dcusmai/blob/main/Profile%20APA.png)
+
+
+### 🥙🍣🍤 Henry Food
+
+![]()
 
 https://github.com/dcusmai/App-Doptame
