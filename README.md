@@ -54,7 +54,7 @@ Entre las tecnologías utilizadas para este proyecto, se encuentran:
 
 Javascript | Node.js | Typescript | HTML | CSS | React | React-Redux | React-Router | Express | MongoDB | Cloudinary | Stripes | Ant Design | Zero Auth | Nodemailer | Figma | Trello | Vercel-Railway 
 
-https://github.com/dcusmai/PI-Food-main
+https://github.com/dcusmai/App-Doptame
 
 
 <img src="https://github.com/dcusmai/dcusmai/blob/main/Landing.png" height="300">
@@ -83,7 +83,8 @@ Entre las tecnologías que utilicé para el desarrollo de este proyecto, se encu
 
 Javascript | HTML | CSS | React | React-Redux | React-Router | Express | Sequelize | Postgres | Node.js
 
-https://github.com/dcusmai/App-Doptame
+https://github.com/dcusmai/PI-Food-main
+
 
 <img src="https://github.com/dcusmai/dcusmai/blob/main/Landing%20Food.png" height="300"> 
 
